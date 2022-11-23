@@ -44,7 +44,7 @@ function swap() {
   
 }
 
-//deleting item
+//deleting item ok
 function free(){
   var elementRem = document.getElementsByTagName("h1")[1];  //targets the element tag and specifies the node to be removed as well.
   var parent = elementRem.parentNode; // specifies the parent node from where we wanna remove the child node from.
